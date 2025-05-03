@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aliesmaeilbeigi
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning backend programming and ai
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: my Telegram account: @hiaeb
 - 😄 Pronouns: he
 - ⚡ fact: تا رنج تحمل نکنی گنج نبینی
